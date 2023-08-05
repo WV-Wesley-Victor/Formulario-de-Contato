@@ -16,7 +16,7 @@ este repositório no GitHub apresenta um projeto prático de um formulário de c
 * Interação do Usuário: Aprenda a adicionar microinterações e feedback visual para melhorar a experiência do usuário durante o preenchimento do formulário.
 
 ## Fontes de Pesquisa
-criar um formulário de contato usando HTML e CSS é uma habilidade valiosa no desenvolvimento web. Aqui estão algumas fontes de pesquisa para aprender a criar formulários de contato:
+Criar um formulário de contato usando HTML e CSS é uma habilidade valiosa no desenvolvimento web. Aqui estão algumas fontes de pesquisa para aprender a criar formulários de contato:
 
 * MDN Web Docs - HTML Forms: A documentação da MDN oferece um guia completo sobre como criar formulários usando HTML, incluindo diferentes tipos de campos e elementos.
 Documentação: https://developer.mozilla.org/pt-BR/docs/Learn/Forms
