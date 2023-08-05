@@ -1,0 +1,28 @@
+Vou explicar o código HTML fornecido, que cria um formulário de contato simples:
+
+1 - Estrutura Básica do Documento:
+
+    - <!DOCTYPE html>: Define o tipo de documento como HTML5.
+    - <html lang="pt-br">: Elemento raiz que indica que o idioma principal do documento é o português do Brasil.
+
+2 - Cabeçalho (Head):
+
+    - <meta charset="UTF-8">: Especifica o conjunto de caracteres UTF-8 para suportar caracteres especiais.
+    - <meta name="viewport" content="width=device-width, initial-scale=1.0">: Define as configurações de visualização da página em dispositivos móveis.
+    - <meta name="author" content="Wesley Victor Pereira Silva">: Define o autor da página.
+    - <meta name="description" content="Página de formulário de contato em HTML.">: Define a descrição da página para fins de SEO.
+    - <meta name="keywords" content="Formulário de contato, HTML, web development">: Define palavras-chave relacionadas ao conteúdo da página.
+    - <title>Formulário de contato</title>: Define o título da página exibido na guia do navegador.
+    - <link rel="stylesheet" href="style.css" />: Importa um arquivo de estilo externo chamado "style.css" para aplicar estilos ao formulário.
+
+3 - Corpo da Página (Body):
+
+    - <form action="#" method="post" autocomplete="off">: Início do formulário. O atributo action define o URL para onde os dados do formulário serão enviados (neste caso, está como "#" apenas para fins de exemplo). O método é "post" para enviar os dados e o atributo autocomplete é desativado.
+    - <fieldset>: Cria um campo de conjunto para agrupar elementos relacionados no formulário.
+    - <legend>Formulário de contato</legend>: Título para o campo de conjunto.
+    - <label for="name">Nome</label>: Rótulo associado ao campo de entrada de "Nome".
+    - <input type="text" name="name" id="name" required placeholder="Digite seu nome completo" />: Campo de entrada de texto para o nome. O atributo type define o tipo de entrada, name é o nome do campo (usado no envio do formulário), id é um identificador único, required torna o campo obrigatório e placeholder exibe um texto temporário.
+    - Semelhante às etapas acima, existem campos para "E-mail", "Assunto" e "Mensagem".
+    - <button type="submit" class="btn">Enviar</button>: Botão de envio do formulário. O atributo type é "submit" para enviar o formulário e a classe "btn" é usada para aplicar estilos.
+
+Esse código cria um formulário de contato básico com campos para nome, e-mail, assunto e mensagem, e um botão para enviar os dados. O design visual provavelmente será definido pelo arquivo "style.css" vinculado.
