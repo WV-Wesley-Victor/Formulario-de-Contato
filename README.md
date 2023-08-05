@@ -7,7 +7,7 @@ Este é um repositório no GitHub que apresenta um projeto prático de um formul
 </p>
 
 ## Descrição
-este repositório no GitHub apresenta um projeto prático de um formulário de contato feito com HTML e CSS. O objetivo é fornecer um exemplo de como criar um formulário interativo e estilizado, com campos de entrada, botões e elementos de seleção. Ao explorar o projeto, você aprenderá a melhorar a usabilidade e o design de formulários em suas páginas da web, incluindo estrutura HTML, estilização atraente, interatividade, elementos de seleção personalizados e boas práticas de design e usabilidade. Isso permitirá criar formulários atraentes e funcionais para uma experiência de usuário mais positiva.
+Este repositório no GitHub apresenta um projeto prático de um formulário de contato feito com HTML e CSS. O objetivo é fornecer um exemplo de como criar um formulário interativo e estilizado, com campos de entrada, botões e elementos de seleção. Ao explorar o projeto, você aprenderá a melhorar a usabilidade e o design de formulários em suas páginas da web, incluindo estrutura HTML, estilização atraente, interatividade, elementos de seleção personalizados e boas práticas de design e usabilidade. Isso permitirá criar formulários atraentes e funcionais para uma experiência de usuário mais positiva.
 
 ## Recursos
 * Estrutura de Formulário: Aprenda a criar a estrutura básica de um formulário de contato, incluindo campos de entrada de texto, caixas de seleção e botões de envio.
