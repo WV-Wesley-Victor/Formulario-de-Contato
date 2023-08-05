@@ -3,7 +3,7 @@ Este é um repositório no GitHub que apresenta um projeto prático de um formul
 
 ![Captura de Tela (63)](https://github.com/WV-Wesley-Victor/Formulario-de-Contato/assets/137107062/057f085f-7f68-4ef5-94fa-9fc4db9221f1)
 <p align="center">
-  <a href="https://wv-wesley-victor.github.io/Cores-e-Efeitos-no-CSS/index.html" target="_blank">Clique aqui para visitar o projeto</a>
+  <a href="https://wv-wesley-victor.github.io/Formulario-de-Contato/" target="_blank">Clique aqui para visitar o projeto</a>
 </p>
 
 ## Descrição
